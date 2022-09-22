@@ -1,0 +1,17 @@
+<html>
+<body>
+<h2>Hello World!</h2>
+</body>
+</html>
+class Jenkins_Project 
+{
+	public static void main(String[] args) 
+	{
+		String name="Mantua";
+		int age=21;
+		int javaResult='a';
+		System.out.println("Name:           "+name);
+		System.out.println("Age:            "+ age);
+		System.out.println("Result in Java: "+javaResult);
+	}
+}
